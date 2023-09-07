@@ -55,7 +55,7 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 #### SPY - Yahoo finance tracker: 
 
 #### Small personal projects e.g. Random number generator, calculator etc: 
-[[https://github.com/dylanpriceginno/RScripts](https://dylanpriceginno.github.io/RscriptingProjects/)]
+https://dylanpriceginno.github.io/Dylans-Rscripting-Projects/
 
 ### Power BI Projects
 
