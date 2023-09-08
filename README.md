@@ -23,14 +23,14 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 
 ## Work Experience
 
-### Royal Mail – Network Analyst - Contract from Grayce					April 2023 – Present
-•	Established centralized data within company and built master data sources.
+### Network Analyst - Contract from Grayce					April 2023 – Present
+•	Established centralized data within the company and built master data sources.
 
 •	Cleaned and aggregated data for use in Data Guru and Supply Chain Guru
 
 •	Visualized data in PowerBI and prepared reports for major stakeholders
 
-### DLA Piper – Data Consultant - Contract from Grayce					October 2021 – April 2023
+###  Data Analyst - Contract from Grayce					October 2021 – April 2023
 
 •	Queried, extracted, cleaned, and transformed data from 41 different offices across the world.
 
