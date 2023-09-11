@@ -1,6 +1,6 @@
 ## Lead Data Analyst
 
-Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract role with a leading multinational postal company. Proficient in data analysis, governance, transformation, and cleaning. Equipped with a master's degree in Data Science, specializing in linear algebra and proficient in coding languages such as R and SQL. Combining a background in biochemistry with data expertise, I bring a unique skill set encompassing research, report writing, and analysis to drive data insights and decision-making.
+Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract role with a leading multinational postal company. Proficient in data analysis, governance, transformation, and cleaning. Equipped with a master's degree in Data Science, specializing in linear algebra, and proficient in coding languages such as R and SQL. Combining a background in biochemistry with data expertise, I bring a unique skill set encompassing research, report writing, and analysis to drive data insights and decision-making.
 
 ## Education
 ### The University of Manchester				
@@ -38,7 +38,7 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 
 •	Achieved 100% data load for the go-live of the project.
 
-•	Validated data using front-end SAP and received commendation for 100% accuracy.
+•	Validated data using front-end SAP and received a commendation for 100% accuracy.
 
 ### Grayce – Lead Data Analyst 								August 2021 – Present
 
@@ -46,7 +46,6 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 
 •	Placed second in a companywide datathon with the presentation "How climate change is affecting low-income areas of the UK."
 
-•	Co-founded the Skills+ club, a learning scheme aimed at sharing knowledge within the company.
 
 ## Projects
 
