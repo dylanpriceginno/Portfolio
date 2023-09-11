@@ -52,7 +52,7 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 
 ### R coding projects
 
-#### SPY - Yahoo finance tracker: 
+#### [SPY - Yahoo finance tracker](https://dylanpriceginno.github.io/SPYTracker/)
 
 #### [Small personal projects](https://dylanpriceginno.github.io/Dylans-Rscripting-Projects)
 
