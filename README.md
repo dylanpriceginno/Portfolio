@@ -57,5 +57,5 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 
 ### Power BI Projects
 
-#### [Royal Mail Mapping Project](https://dylanpriceginno.github.io/MappingProject/)
+#### [Mapping Project](https://dylanpriceginno.github.io/MappingProject/)
 
