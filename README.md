@@ -65,6 +65,8 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 
 #### [Small Personal Projects](https://dylanpriceginno.github.io/Dylans-Rscripting-Projects)
 
+#### [Distance Calculations](https://dylanpriceginno.github.io/DistanceMatrix)
+
 ### Power BI Projects
 
 #### [Mapping Project](https://dylanpriceginno.github.io/MappingProject/)
