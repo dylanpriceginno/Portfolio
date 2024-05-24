@@ -26,25 +26,35 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 ## Grayce
 ### Lead Data Analyst				-  			    		August 2023 – Present
 •	Cleaned, aggregated, and analysed data from 57 different sources for use in digital twin network model design.
+
 •	Visualized customer, financial, and operational data, preparing 40+ ad-hoc reports for major stakeholders.
+
 •	Built and maintained a Google cloud-based database now containing over 40 views and 200 million rows of data.
+
 •	Built a profitability model which analyses previously unused customer data, opening new avenues for commercial team.
 
 ### Senior Data Analyst 		  	-						August 2022 – July 2023
 •	Queried, extracted, cleaned, and transformed finance data from 41 different offices across the world.
+
 •	Designed 41 SQL templates to standardize data, achieving a 98% success rate in loading into SAP.
+
 •	Achieved 100% data load before the go-live of the project.
+
 •	Validated data using front-end SAP, receiving commendation for 100% accuracy.
 
 ### Data Analyst						  -    				August 2021 – July 2022
 •	Produced HR and commercial ad-hoc data analysis reports, presenting complex information to stakeholders.
+
 •	Developed proficiency in R, SQL, Python, and Power BI through a bespoke training program.
+
 •	Placed second in a companywide datathon with the presentation "How climate change is affecting low-income areas of the UK”.
 
 ## Graphnet Health
 ### Health Population Intern 			-				June 2021 – August 2021
 •	Researched and developed a Natural Language Processing program in Python to clean unstructured medical data.
+
 •	Achieved 90% accuracy in cleaning the data while eliminating all personal information.
+
 •	Visualized results in Tableau and made the data available for secondary medical research.
 
 ## Projects
