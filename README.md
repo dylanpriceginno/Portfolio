@@ -59,6 +59,13 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 
 ## Projects
 
+### Power BI Projects
+#### [Delivery Attempt Analysis]
+
+#### [Mapping Project](https://dylanpriceginno.github.io/MappingProject/)
+
+#### [Sunday Delivery Analysis](https://dylanpriceginno.github.io/Sunday-Delivery/)
+
 ### R coding projects
 
 #### [SPY - Yahoo Finance Tracker](https://dylanpriceginno.github.io/SPYTracker/)
@@ -67,10 +74,5 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 
 #### [Distance Calculations](https://dylanpriceginno.github.io/DistanceMatrix)
 
-### Power BI Projects
-
-#### [Mapping Project](https://dylanpriceginno.github.io/MappingProject/)
-
-#### [Sunday Delivery Analysis](https://dylanpriceginno.github.io/Sunday-Delivery/)
 
 
