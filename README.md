@@ -60,7 +60,7 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 ## Projects
 
 ### Power BI Projects
-#### [Delivery Attempt Analysis]
+#### [Delivery Attempt Analysis](https://dylanpriceginno.github.io/DeliveryAttempts/)
 
 #### [Mapping Project](https://dylanpriceginno.github.io/MappingProject/)
 
