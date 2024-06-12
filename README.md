@@ -66,6 +66,8 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 
 #### [Sunday Delivery Analysis](https://dylanpriceginno.github.io/Sunday-Delivery/)
 
+#### [Bi-directional Flow Analysis](https://dylanpriceginno.github.io/Bidirectional/)
+
 ### R coding projects
 
 #### [SPY - Yahoo Finance Tracker](https://dylanpriceginno.github.io/SPYTracker/)
