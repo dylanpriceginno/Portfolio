@@ -59,7 +59,7 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 
 ## Projects
 
-### Power BI Projects
+### Dashboard/Visualisation Projects
 #### [Delivery Attempt Analysis](https://dylanpriceginno.github.io/DeliveryAttempts/)
 
 #### [Mapping Project](https://dylanpriceginno.github.io/MappingProject/)
@@ -68,7 +68,7 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 
 #### [Bi-directional Flow Analysis](https://dylanpriceginno.github.io/Bidirectional/)
 
-### R coding projects
+### Coding projects
 
 #### [SPY - Yahoo Finance Tracker](https://dylanpriceginno.github.io/SPYTracker/)
 
