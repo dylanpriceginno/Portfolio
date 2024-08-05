@@ -62,7 +62,7 @@ Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract 
 ### Dashboard/Visualisation Projects
 #### [Delivery Attempt Analysis](https://dylanpriceginno.github.io/DeliveryAttempts/)
 
-#### [Mapping Project](https://dylanpriceginno.github.io/MappingProject/)
+#### [Facility Mapping Project](https://dylanpriceginno.github.io/MappingProject/)
 
 #### [Sunday Delivery Analysis](https://dylanpriceginno.github.io/Sunday-Delivery/)
 
