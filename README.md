@@ -1,6 +1,6 @@
 ## Lead Data Analyst
 
-Experienced Data Analyst at GRAYCE, currently engaged in a challenging contract role with a leading multinational postal company. Proficient in data analysis, governance, transformation, and cleaning. Equipped with a master's degree in Data Science, specializing in linear algebra, and proficient in coding languages such as R and SQL. Combining a background in biochemistry with data expertise, I bring a unique skill set encompassing research, report writing, and analysis to drive data insights and decision-making.
+Experienced Data Specialist at Royal Mail, currently engaged in a challenging  role within the Senior Network Modelling Team. Proficient in data analysis, governance, transformation, and cleaning. Equipped with a master's degree in Data Science, specializing in linear algebra, and proficient in coding languages such as R and SQL. Combining a background in biochemistry with data expertise, I bring a unique skill set encompassing research, report writing, and analysis to drive data insights and decision-making.
 
 ## Education
 ### The University of Manchester				
