@@ -22,9 +22,17 @@ Experienced Data Specialist at Royal Mail, currently engaged in a challenging  r
 •	Completed an enterprise project with the Manchester Alliance Business School, achieving an overall grade of 2.1.
 
 ## Work Experience
+## Royal Mail              -               October 2024 - Present
+•	Leading the data function of the Network Modelling Team
+
+•	Building data pipelines and hosting team databases
+
+•	 Building dashboards & performign ad-hoc data analysis for stakeholders
+
+•	 Managing sprint analysis and model building
 
 ## Grayce
-### Lead Data Analyst				-  			    		August 2023 – Present
+### Lead Data Analyst				-  			    		August 2023 – October 2024
 •	Cleaned, aggregated, and analysed data from 57 different sources for use in digital twin network model design.
 
 •	Visualized customer, financial, and operational data, preparing 40+ ad-hoc reports for major stakeholders.
