@@ -1,4 +1,4 @@
-## Lead Data Analyst
+## Data Science and Analytics Specialist
 
 Experienced Data Specialist at Royal Mail, currently engaged in a challenging  role within the Senior Network Modelling Team. Proficient in data analysis, governance, transformation, and cleaning. Equipped with a master's degree in Data Science, specializing in linear algebra, and proficient in coding languages such as R and SQL. Combining a background in biochemistry with data expertise, I bring a unique skill set encompassing research, report writing, and analysis to drive data insights and decision-making.
 
