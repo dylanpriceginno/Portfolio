@@ -1,6 +1,6 @@
 ## Data Science and Analytics Specialist
 
-Experienced Data Specialist at Royal Mail, currently engaged in a challenging  role within the Senior Network Modelling Team. Proficient in data analysis, governance, transformation, and cleaning. Equipped with a master's degree in Data Science, specializing in linear algebra, and proficient in coding languages such as R and SQL. Combining a background in biochemistry with data expertise, I bring a unique skill set encompassing research, report writing, and analysis to drive data insights and decision-making.
+Senior Data Analyst at the Financial Times. Proficient in data analysis, governance, transformation, and cleaning. Equipped with a master's degree in Data Science, specializing in linear algebra, and proficient in coding languages such as R and SQL. Combining a background in biochemistry with data expertise, I bring a unique skill set encompassing research, report writing, and analysis to drive data insights and decision-making.
 
 ## Education
 ### The University of Manchester				
@@ -22,7 +22,11 @@ Experienced Data Specialist at Royal Mail, currently engaged in a challenging  r
 •	Completed an enterprise project with the Manchester Alliance Business School, achieving an overall grade of 2.1.
 
 ## Work Experience
-## Royal Mail              -               October 2024 - Present
+
+## Financial Times         -               June 2025 - Present
+• Analysing the release of New Products to the FT
+
+## Royal Mail              -               October 2024 - May 2025
 •	Leading the data function of the Network Modelling Team
 
 •	Building data pipelines and hosting team databases
